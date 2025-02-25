@@ -36,5 +36,5 @@ The models demonstrate how different architectures impact the ability to predict
 Feel free to open issues or submit pull requests if you’d like to contribute to this project.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the `MIT License`.
 
